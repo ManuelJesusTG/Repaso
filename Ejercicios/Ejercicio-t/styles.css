@@ -1,0 +1,20 @@
+#botones{
+    text-align: center;
+}
+
+img{
+    width: auto;
+    height: 100px;
+}
+
+#padre{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+}
+
+.card{
+    margin-left: 3%;
+    margin-right: 3%;
+}
